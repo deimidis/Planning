@@ -1,24 +1,24 @@
-## Objective Goal:
-Detailed description on what should happen to consider this a success.
+## Objetivo a alcanzar:
+Descripción detallada de cuál debe ser el resultado para que sea un éxito.
 
-## Related documents and links
+## Documentos relacionados y enlaces
 
-* [Links here](/thelink)
+* [Enlaces aquí](/thelink)
 
 ## Roles
 
-* **R**esponsible: *(Mandatory) The person who will lead this task (set also this person as task assignee)*
-* **A**ccountable: *(Mandatory) The person who is accountable of the overall theme, usually theme owner*
-* **S**upporter: *Anyone helping this task to be completed by taking actions*
-* **C**onsulted: *People that needs to be pinged for feedback/review, usually the accountable*
-* **I**nformed: *People that needs to be pinged to be informed about this task progress*
+* **R**esponsable: *(Obligatorio) La persona que liderará esta tarea (asigna el issue a esta persona)*
+* **A**ccountable (quien rinde cuentas): *(Obligatorio) La persona que es responsable de todo el tópico, usualmente el líder del Tópico más grande)*
+* **S**upporter (apoyo): *cualquier persona que ayude en esta tarea para que se complete*
+* **C**onsulted (consultado): *Persona que debe ser consultada para feedback o revisar la tarea, usualmente el Accountable*
+* **I**nformed (informado): *Personas que deben ser avisadas del progreso de la tarea*
 
-## Item list:
-- [ ] Individual item that should happen (R: @username)
-- [ ] Individual item that should happen (R: @username)
-- [ ] Individual item that should happen (R: @username)
-- [ ] Individual item that should happen (R: @username)
+## Lista de items:
+- [ ] Hecho particular que debe suceder (R: @username)
+- [ ] Hecho particular que debe suceder (R: @username)
+- [ ] Hecho particular que debe suceder (R: @username)
+- [ ] Hecho particular que debe suceder (R: @username)
 
-## Related Issues
+## Issues relacionados
 
-* [Reference meta issues and past issues](/thelink)
+* [Referencia a issues que contienen a este o anteriores](/thelink)
