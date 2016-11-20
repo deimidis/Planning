@@ -1,11 +1,11 @@
-## Mozilla Arabic planning repo
+## Mozilla México - repositorio de planificación
 
-This repository is used for tracking [issues](https://github.com/ArabicMozilla/Planning/issues) directly related to the work of the Mozilla Arabic Community.
+Este repositorio se usa para hacer sguimiento de los [issues](https://github.com/ArabicMozilla/Planning/issues) creados durante el Encuentro Comunitario del 2016
 
-Issues created here should be Specific, Measurable, Achievable, Relevant and Time-bound:
+Los Issues creados aquí deben ser Específicos (S), mensurables, conseguibles, relevantes y con un límite en el tiempo:
 
-* **Specific**: One concrete and clear action to be done.
-* **Measurable**: With clear metrics to know if was done successfuly or not.
-* **Achievable**: Realistic task, not too big.
-* **Relevant**: Linked to one of the working themes ([labels](https://github.com/ArabicMozilla/Planning/labels))
-* **Time-bound**: Tied to a specific period of time, ideally short term.
+* **Específico**: UNa acción clara y concreta para ser realizada
+* **Mensurable**: Con métricas clara para saber si se realizó exitósamente o no.
+* **Conseguible**: tareas realísticas, no demasiado grandes.
+* **Relevantes**: Enlazado a uno de los temas de trabajo ([labels](https://github.com/ArabicMozilla/Planning/labels))
+* **Con un límite en el tiempo**: Con na fecha específica de finalización, idealmente en el corto plazo.
